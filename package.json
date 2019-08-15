@@ -1,0 +1,20 @@
+{
+  "name": "react-css-spinners-test",
+  "version": "1.0.0",
+  "description": "css spinners test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vega-ken/react-css-spinners-test.git"
+  },
+  "keywords": ["react", "css", "spinners"],
+  "author": "Ken",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vega-ken/react-css-spinners-test/issues"
+  },
+  "homepage": "https://github.com/vega-ken/react-css-spinners-test#readme"
+}
